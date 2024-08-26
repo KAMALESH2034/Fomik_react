@@ -1,7 +1,8 @@
 body{
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  background-color: #bee2f594 !important;
 
-  color: rgba(164, 221, 249, 0.87);
-  background-color: #7bb7d850 !important;
-
+}
+.form-BG{
+  background-color: rgb(242, 230, 244) !important;
 }

@@ -53,7 +53,7 @@ function Form() {
         navigate("/submited");
       }
        
-  
+
     })
   
     let geoData = {
@@ -147,9 +147,17 @@ function Form() {
 
   return (
     <>
-    <div className='container mt-4'>
+    <div class="container ">
+       <div class="row">
+         <div className='d-flex justify-content-center'>
+         <div class="col-12 col-lg-8 mt-5 mb-5 mb-lg-5">
+           
+           <div class="mx-auto form-BG rounded-4 shadow-lg">
+                <div class="d-flex mb-6 mx-auto align-items-center justify-content-center bg-white border rounded-pill" >
+                </div>
+                <div className='container mt-4'>
       <div className='row'>
-        <h2> GuluGulu Form</h2>
+        <h2 className='text-center'> GuluGulu Form</h2>
         <form onSubmit={formik.handleSubmit}>
             <div className='col-lg-12 mt-3'>
               <div className='row'>
@@ -261,6 +269,13 @@ function Form() {
       </div>
       <Outlet/>
     </div>
+
+            </div>
+           </div>
+         </div>
+    </div>
+    </div>
+    
     </>
   )
 }
