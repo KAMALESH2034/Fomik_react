@@ -1,5 +1,9 @@
 # Formik-React [ GuluGulu Forms ]
 
-Deployment link : 
+A mock Google forms
 
-    [https://guluguluforms.netlify.app/](https://guluguluforms.netlify.app/)
+
+
+Deployment link :
+
+[Gulugulu Forms ↗️]([https://guluguluforms.netlify.app/](https://guluguluforms.netlify.app/))
