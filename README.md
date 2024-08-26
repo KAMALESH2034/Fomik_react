@@ -6,4 +6,4 @@ A mock Google forms
 
 Deployment link :
 
-[Gulugulu Forms ↗️]([https://guluguluforms.netlify.app/](https://guluguluforms.netlify.app/))
+[Gulugulu Forms ↗️](https://guluguluforms.netlify.app/)
